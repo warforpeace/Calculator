@@ -1,0 +1,28 @@
+ 	#a{width: 100px;
+height: 100px;
+border-radius: 100px;
+font-size: 23px;}
+
+
+  	
+#b{width: 410px;
+height: 80px;
+font-size: 40px;
+text-align: right;
+border-radius: 10px;
+background-color: black;
+color: white;}
+
+#c{ padding: 8px;
+	border: 8px solid white;
+	width: 35%;
+	border-radius: 5px;}
+
+#d{width: 100px;
+height: 100px;
+border-radius: 100px;
+font-size: 23px;
+background-color: red;
+opacity: 0.7;}
+
+ 
